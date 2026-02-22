@@ -1,6 +1,6 @@
-# ⚡ TechStore - Product Catalog App
+# ⚡ TechStore - Aplikasi Web Katalog Elektronik
 
-Aplikasi katalog produk elektronik berbasis React yang dibangun sebagai Final Project Web Development Pathway **Google Developer Groups on Campus Universitas Sumatera Utara (GDGoC USU)**.
+Aplikasi web katalog produk elektronik berbasis React yang dibangun sebagai Final Project Web Development Pathway **Google Developer Groups on Campus Universitas Sumatera Utara (GDGoC USU)**.
 
 ## 🌐 Live Demo
 [Link Demo](https://gdgoc-catalog.vercel.app/)
